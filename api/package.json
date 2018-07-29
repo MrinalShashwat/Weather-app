@@ -1,0 +1,26 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrinalShashwat/Weather.git"
+  },
+  "keywords": [
+    "pop123pop"
+  ],
+  "bugs": {
+    "url": "https://github.com/MrinalShashwat/Weather/issues"
+  },
+  "homepage": "https://github.com/MrinalShashwat/Weather#readme",
+  "description": "",
+  "dependencies": {
+    "request": "^2.87.0",
+    "yargs": "^12.0.1"
+  }
+}
